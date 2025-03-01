@@ -1,0 +1,29 @@
+# Ignore specific files
+cred.txt
+debri.py
+test.py
+tuya
+server_log.txt
+
+
+
+# Ignore specific directories
+testfiles/
+config/__pycache__/
+tuya_api/__pycache__/
+tuya_api/__init__.py
+
+# Ignore all .env files
+.env
+
+# Ignore all __pycache__ directories
+**/__pycache__/
+
+# Ignore all .DS_Store files
+gui_test.py
+tuya_api/authtest.p
+demo.mp4
+
+
+# Ignore all .DS_Store files
+tuya_api/authtest.py
