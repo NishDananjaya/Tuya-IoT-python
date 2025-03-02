@@ -80,4 +80,3 @@ A custom application to connect and manage IoT devices using the Tuya API. This 
 
 - [tinyTuya](https://github.com/jasonacox/tinytuya)
 - [LocalTuya](https://github.com/rospogrigio/localtuya)
-- [Watch Demo](https://drive.google.com/file/d/1RyJzB9uqz2N0TjDua1W7kBAy3JFcULY8/view?usp=drive_link)
